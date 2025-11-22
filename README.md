@@ -3,10 +3,15 @@
 
 
 
-I’m an undergraduate of Information and Communication Technology Degree program at Uva Wellassa University of Sri Lanka
+I’m Subhani Herath, an undergraduate in BICT (Software Technology specialization) at Uva Wellassa University of Sri Lanka, passionate about building meaningful digital solutions and continuously improving my skills in modern technologies. I enjoy working across the full development lifecycle—from understanding requirements to designing, developing, testing, and deploying efficient software systems. I’m especially interested in 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠 and 𝐜𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐮𝐬𝐞𝐫-𝐟𝐨𝐜𝐮𝐬𝐞𝐝 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬.
 
+What I Bring:
 
-
+✔️ Strong foundation in 𝐉𝐚𝐯𝐚, 𝐒𝐩𝐫𝐢𝐧𝐠𝐛𝐨𝐨𝐭 and 𝐎𝐎𝐏 concepts
+✔️ Hands-on experience with 𝐑𝐞𝐚𝐜𝐭, 𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐄𝐱𝐩𝐫𝐞𝐬𝐬.𝐣𝐬, and 𝐌𝐨𝐧𝐠𝐨𝐃𝐁
+✔️ Knowledge in 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐭𝐞𝐬𝐭𝐢𝐧𝐠, 𝐯𝐞𝐫𝐬𝐢𝐨𝐧 𝐜𝐨𝐧𝐭𝐫𝐨𝐥 (𝐆𝐢𝐭/𝐆𝐢𝐭𝐇𝐮𝐛), and 𝐀𝐏𝐈 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭
+✔️ Ability to work collaboratively in teams and contribute to real-world projects
+✔️ Passion for learning new technologies and adapting quickly
 
 
 
