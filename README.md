@@ -21,5 +21,3 @@ What I Bring:</br>
 
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhani-herath-a&show_icons=true&locale=en" alt="subhani-herath-a" /></p>
